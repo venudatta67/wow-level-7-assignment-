@@ -1,0 +1,40 @@
+table{
+  margin-top: 150px;
+  margin-left: 520px;
+  width: 300px;
+  height:300px;
+  border: 1px solid black;
+}
+.bt{
+  width: 60px;
+  height: 60px;
+  margin: 5px;
+  background-color: black;
+  color: whitesmoke;
+}
+.display{
+  width: 250px;
+  height: 40px;
+  background-color: lightseagreen;
+}
+h1{
+  font-style: bold;
+  text-align: center;
+  
+
+}
+body{
+  background-color: lightgoldenrodyellow;
+}
+.bt1{
+  width: 60px;
+  height: 60px;
+  margin: 5px;
+  background-color: palevioletred;
+}
+.bt2{
+  width: 60px;
+  height: 60px;
+  margin: 5px;
+  background-color: aliceblue;
+}
